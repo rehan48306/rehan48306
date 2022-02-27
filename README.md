@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rehan48306
+- 👋 Hi, I’m Md Rehanuddin
 - 👀 I’m interested in problem solving and building websites
 - 🌱 I’m currently learning web developement using MERN stack.
 - 📫 How to reach me ... Connect me on LinkedIn 
